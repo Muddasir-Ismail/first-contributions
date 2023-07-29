@@ -1,7 +1,7 @@
 # Contributors
 
 <!-- prettier-ignore-start and welcome Priyanshu Maurya  Priyanshu Maurya-->
-
+- [Muddasir Ismail](https://github.com/Muddasir-Ismail)
 - [Christophe Debove](https://github.com/ChristopheDEBOVE)
 - [Nicholas Ang](https://github.com/angnicholas/)
 - [Casey Kawamura](https://github.com/SOMUCHDOG)
